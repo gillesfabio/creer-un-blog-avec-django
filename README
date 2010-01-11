@@ -1,0 +1,29 @@
+==============================================================
+Source code of my french tutorial: "créer un blog avec Django"
+==============================================================
+
+Tutorial URL: http://gillesfabio.com/blog/2009/01/29/creer-un-blog-avec-django/
+
+(The site is currently a blank page - Should be back soon)
+
+Grab the source::
+
+    $ git clone git://github.com/gillesfabio/creer-un-blog-avec-django.git
+
+Go in the project's folder::
+
+    $ cd creer-un-blog-avec-django/website
+
+Change some settings if you need and synchronize the database::
+
+    $ python manage.py syncdb
+
+Load the fixtures::
+
+    $ python manage.py loaddata test_data
+    
+Run the server::
+
+    $ python manage.py runserver
+    
+That's all.
