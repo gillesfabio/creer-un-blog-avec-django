@@ -1,17 +1,17 @@
 Source code of my french tutorial: "Créer un blog avec Django"
 ==============================================================
 
-Tutorial URL: http://gillesfabio.com/blog/2009/01/29/creer-un-blog-avec-django/
+Tutorial URL: <http://gillesfabio.com/blog/2009/01/29/creer-un-blog-avec-django/>
 
 Information
 -----------
 
 This version runs on Django 1.1.
 
-The tutorial has been updated to run on Django 1.2. 
+The tutorial has been updated to run on Django 1.2: [URL][1] and [repository][2].
 
-* URL: http://gillesfabio.com/blog/2010/07/22/creer-un-blog-avec-django-1-2/
-* Repository: http://github.com/gillesfabio/creer-un-blog-avec-django-1.2 
+[1]: http://gillesfabio.com/blog/2010/07/22/creer-un-blog-avec-django-1-2/
+[2]: http://github.com/gillesfabio/creer-un-blog-avec-django-1.2
 
 Installation
 ------------
